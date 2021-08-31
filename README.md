@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello 👋 I'm Axel,
 
-<!--
-**Axel-1/Axel-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast and computer science student in Paris.  
 
-Here are some ideas to get you started:
+### 🛠 Languages / Tools
+- PHP 🐘
+- Java ☕️
+- SQL ⚙️
+- Spring 🌱
+- Docker 🐳
+- IntelliJ IDEA ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 [My website](https://axel-1.github.io/)
+
+### ⬇ Check out my last projects ⬇
