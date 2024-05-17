@@ -3,10 +3,11 @@
 I'm a tech enthusiast and computer science student in Paris.  
 
 ### 🛠 Languages / Tools
-- PHP 🐘
+
 - Java ☕️
-- SQL ⚙️
 - Spring 🌱
+- SQL ⚙️
+- PHP 🐘
 - Docker 🐳
 - IntelliJ IDEA ❤️
 
